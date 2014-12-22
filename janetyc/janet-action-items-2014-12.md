@@ -1,3 +1,10 @@
+2014/12/19 - 2014/12/25
+* read 2 papers
+* write a paragraph for research plan
+* experiment design
+* prepare a presentation in CSCLab
+
+----
 2014/12/12 - 2014/12/18
 * read at least 3 papers (done)
   - [ACM XRDS 2010] Ethics and Tactics of Professional Crowdwork
