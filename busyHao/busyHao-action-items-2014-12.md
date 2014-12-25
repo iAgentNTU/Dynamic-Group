@@ -1,3 +1,12 @@
+2014/12/25 - 2014/1/1
+* Reading
+ - Find the support related work from "Emotion Classification in Microblog Texts Using Class Sequential Rules"
+* Writing
+ - 
+* Implementation
+ - the sentiment requirement from HungChi
+ - make sure online tools I will use is available
+
 2014/12/18 - 2014/12/25
 * Reading
  - Find the support related work from "Emotion Classification in Microblog Texts Using Class Sequential Rules"
