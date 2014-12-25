@@ -1,5 +1,5 @@
 Date: 2014/12/25 <br/>
-Time: 16:50-18:40 <br/>
+Time: 16:50-19:00 <br/>
 Location: R340 <br/>
 Recorded by: chifatty
 
@@ -34,11 +34,13 @@ Time: 18:21-18:35
 - Quizz: Targeted Crowdsourcing with a Billion (Potential) Users
 
 ####政諺####
-Time: 18:37-
+Time: 18:37-18:55
 - Spending Real Money: Purchasing Pattern sof Virtual Goods in an Online Social Game
   - 500萬玩家，資料太多無法分析個別行為，做總體經濟的分析
   - 假說：社交性的行為會影響購買
     - 會影響花錢嗎？
     - 會花多少錢？
     - 女性、有送禮行為較易花錢
+    - 朋友越多越容易花錢
     - 是否投入遊戲不影響花錢
+    - 玩家要先滿足基本需求
