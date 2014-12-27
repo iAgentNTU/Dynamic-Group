@@ -14,3 +14,4 @@
 2014/12/26 - 2014/1/8
 
 1. Read at least 1 papers.
+(Due to need to prepare the final project...)
