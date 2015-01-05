@@ -1,8 +1,11 @@
 2014/12/26 - 2015/01/01
-* read at least 3 papers
-* write a paragraph for proposal
-* CSCW DC Camera-ready
-* CHI WiP
+* read at least 3 papers (done)
+  - CSCW'96 Re-Place-ing Space: The Roles of Place and Space in Collaborative Systems
+  - CSCW'06 Re-Space-ing Place: "Place" and "Space" Ten Years On
+  - Building Successful Online Communities: Evidence-Based Social Design - chapter 1
+* write a paragraph for proposal (done)
+* CSCW DC Camera-ready (in-progress)
+* CHI WiP (cancel)
 
 ----
 2014/12/19 - 2014/12/25
