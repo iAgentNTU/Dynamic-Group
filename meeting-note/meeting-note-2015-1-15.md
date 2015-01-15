@@ -54,6 +54,9 @@ Janet -
 5. p.9 binary怪怪的
 6. p.13要修改
 7. p.15基本上應該只要是movie即可
+8. 對話這件事情是含有subjective...，movie裡其實是有情緒的（場景跟場景間有context 在什麼context下 什麼情緒的字居多）
+9. releted work 應該...
+10. expanded的方法有哪幾種...
 
 
 泓其 -
