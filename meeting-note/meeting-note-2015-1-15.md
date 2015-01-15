@@ -7,6 +7,7 @@ Hans  -------
 1. 要放上名字、在投影片上加頁碼、想一下加“context”這個字的意義
 2. 把大家公認的challenge放上來會比自己定義的challenge好
 3. motivation要有價值、貢獻，所寫的都要緊扣主題說明why，能清楚說明貢獻及目的
+4. 用簡單的方式切出pattern給大家看
 
 Janet - 
 
@@ -16,7 +17,7 @@ Janet -
 4. purpose solution
 5. challenge 放比較specific的問題，尚未被解決的問題
 6. motivation 定義不太恰當
-7. problem definition 應該像數學式子，要很specific的去解決的東西，建議看一下Zoe的。分為input、output、sensor的定義
+7. problem definition 應該像數學式子，要很specific的去解決的東西，建議看一下Zoe的。(分為input、output、sensor的定義...)
 8. 專有名詞一定要用全名
 9. 時間大約20~30分鐘
 10. 要放schedule（到口試前）
