@@ -57,6 +57,7 @@ Janet -
 8. 對話這件事情是含有subjective...，movie裡其實是有情緒的（場景跟場景間有context 在什麼context下 什麼情緒的字居多）
 9. releted work 應該...
 10. expanded的方法有哪幾種...
+11. symbolic...?
 
 
 泓其 -
