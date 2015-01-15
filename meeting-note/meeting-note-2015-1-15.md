@@ -40,6 +40,9 @@ Hao  -------
 2. 說明state-of-the-art的dictionary的方法
 3. 重點：好的dictionary很重要
 4. overlap的重點是什麼？
+5. p.8的表可以用更好的方式呈現
+6. p.8.9 畫圖整合即可
+7. p.16 E的數學定義要修改一下
 
 
 Janet - 
@@ -48,10 +51,16 @@ Janet -
 2. Method of sentiment analysis 應該成更好的標題...如何見一個更好的dictionary
 3. 介紹中文字典的稀少？
 4. 比較國內跟國外的字典，來凸顯中文字典的重要性
-5. 
+5. p.9 binary怪怪的
+6. p.13要修改
+7. p.15基本上應該只要是movie即可
 
 
 泓其 -
 
 1. introduction和motivation應該可以前後呼應
-2. 
+2. filter不要的字幕即可，不用限制台灣
+3. 說明dialogue的重要性，要有support
+
+
+
