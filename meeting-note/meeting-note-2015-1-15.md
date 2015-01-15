@@ -58,6 +58,7 @@ Janet -
 9. releted work 應該...
 10. expanded的方法有哪幾種...
 11. symbolic...?
+12. label這件事是不是重要的？該如何使用？要好好定義一下
 
 
 泓其 -
