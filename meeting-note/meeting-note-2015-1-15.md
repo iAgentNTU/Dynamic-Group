@@ -2,6 +2,7 @@ Proposal
 
 Hans:
 建議
+
 啟嘉 - 
 1. 要放上名字、在投影片上加頁碼、想一下加“context”這個字的意義
 2. 把大家公認的challenge放上來會比自己定義的challenge好
