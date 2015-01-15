@@ -36,9 +36,13 @@ Hao  -------
 
 啟嘉 - 
 
-1.
+1. 不管什麼方法都會用到dictionary，點到既可
+2. 說明state-of-the-art的dictionary的方法
+
 
 Janet - 
+
+1. 重點放在dictionary.
 
 
 泓其 -
