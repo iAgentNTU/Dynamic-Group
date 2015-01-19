@@ -2,6 +2,7 @@
 * reat at least 2 papers
   * [CSCW15]: Flock: Hybrid Crowd-Machine Learning Classifiers
   * [UIST10]: Gestalt: Integrated Support for Implementation and Analysis in Machine Learning
+  * [CHI08]: Investigating Statistical Machine Learning as a Tool for Software Development
 * meeting w/ chifatty on 1/20 (winter plan for machine learning tool)
 * meeting w/ jane on 1/21
 * meeting w/ Haochuan on 1/22
