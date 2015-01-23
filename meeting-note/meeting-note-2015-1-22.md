@@ -43,8 +43,8 @@ Schedule
  - 1/27-1/28: 基本的propagate結果和觀察（In-link和Out-link）
  - 1/29-2/02: Surface text和relation type對propagate的處理
  - 2/03-2/06: 處理In-link normalization的兩個問題：
- 　　　　　　　1. Number of seeds (透過小雞label或是設計human label的平台)
- 　　　　　　　2. Many Objective words weaken the result of propagation
+  1. Number of seeds (透過小雞label或是設計human label的平台)
+  2. Many Objective words weaken the result of propagation
 
  
 1/23 with Janet:
