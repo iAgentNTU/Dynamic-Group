@@ -49,6 +49,6 @@ Schedule
  
 1/23 with Janet:
  - 整理Evaluation的幾種方法的來源(來自哪個work)和用的時候的設計，目前已知幾個：
- 1. （SentiWordNet和長蓉）: 由人去排序來和自己用polarity排序去比較（要想一下那我這邊是要如何讓人排，是兩個兩個排還是一起排，優缺點是？）
- 2. （蕙欣）：看coverage還有把seed用5-fold來看準確率
- 3. 用電影字幕sentence來evaluate的話如何設計（例如做個簡單的matching和negation，來真的去查查看），能真的看看真實語句能否分析得更好
+  1. （SentiWordNet和長蓉）: 由人去排序來和自己用polarity排序去比較（要想一下那我這邊是要如何讓人排，是兩個兩個排還是一起排，優缺點是？）
+  2. （蕙欣）：看coverage還有把seed用5-fold來看準確率
+  3. 用電影字幕sentence來evaluate的話如何設計（例如做個簡單的matching和negation，來真的去查查看），能真的看看真實語句能否分析得更好
