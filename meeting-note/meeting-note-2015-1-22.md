@@ -36,10 +36,11 @@ PoHao
 
 + p.11 - p.14
  - 如何用小雞來問問題多取得seed要再survey，或是自己設計平台，但是小雞的受眾較廣，所以比較prefer
+ - 接續surface text的部分，sentiment到底是定義在哪裡可以跳脫出來，例如是定在assertion上而不是在concept上
  
 
 + Schedule
- - 1/24-1/26: Collect sentiment seeds（可先看或聯絡蕙欣學姊看是否有結果來當seeds）
+ - 1/24-1/26: Collect sentiment seeds（可先看或聯絡蕙欣學姊看是否有結果來當seeds），觀察列出我的surface text和relation
  - 1/27-1/28: 基本的propagate結果和觀察（In-link和Out-link）
  - 1/29-2/02: Surface text和relation type對propagate的處理
  - 2/03-2/06: 處理In-link normalization的兩個問題：
