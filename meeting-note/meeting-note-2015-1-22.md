@@ -8,7 +8,7 @@ PoHao
 + p.2 - p.3
  - conceptNet的圖改成用中文且有sentiment concept的例子，最好選個例子是能貫穿整個投影片的，
  
-p.4 
++ p.4 
  - 右下的圖的assertion不用把encode那些format也都show出來
 
 p.5 
