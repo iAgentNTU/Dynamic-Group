@@ -5,7 +5,7 @@ PoHao
 
 (舊版投影片對照：https://drive.google.com/file/d/0BzEUu9bj9sLcZVdrSTZFM1FzaU0/view?usp=sharing)
 
-p.2 - p.3 
++ p.2 - p.3
  - conceptNet的圖改成用中文且有sentiment concept的例子，最好選個例子是能貫穿整個投影片的，
  
 p.4 
