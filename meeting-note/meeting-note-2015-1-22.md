@@ -1,8 +1,9 @@
 **Plan**
 =====================================================================================================
 
-PoHao  -------
-p.2-p.3 
+PoHao
+
+p.2 - p.3 
  - conceptNet的圖改成用中文且有sentiment concept的例子，最好選個例子是能貫穿整個投影片的，
  
 p.4 
@@ -30,6 +31,19 @@ p.9 - p.10
  - weight of assertion不用一定要和propage出去的值綁在一起，例如他影響的是discount factor(削減得比較快，傳得比較短)，這裡直接乘在一起的理由是甚麼
  - （前面列了） 要真的下去看surface text和想出找法，讓人同意真的有能抓出的規律
  - 為什麼大家不用outlink: 表示越多relation的concept，反而影響力越小
+
+p.11 - p.14
+ - 如何用小雞來問問題多取得seed要再survey，或是自己設計平台，但是小雞的受眾較廣，所以比較prefer
+ 
+
+Schedule
+ - 1/24-1/26: Collect sentiment seeds（可先看或聯絡蕙欣學姊看是否有結果來當seeds）
+ - 1/27-1/28: 基本的propagate結果和觀察（In-link和Out-link）
+ - 1/29-2/02: Surface text和relation type對propagate的處理
+ - 2/03-2/06: 處理In-link normalization的兩個問題：
+ 　　　　　　　1. Number of seeds (透過小雞label或是設計human label的平台)
+ 　　　　　　　2. Many Objective words weaken the result of propagation
+
  
 1/23 with Janet:
  - 整理Evaluation的幾種方法的來源(來自哪個work)和用的時候的設計，目前已知幾個：
