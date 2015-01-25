@@ -21,4 +21,5 @@
 
 #### References
 [1] J. Cheng and M. S. Bernstein. Flock: Hybrid crowd-machine learning classifiers. In Pro- ceedings of the ACM 2015 conference on Computer Supported Cooperative Work (CSCW ’15), 2015.
+
 [2] K. Patel, J. Fogarty, J. A. Landay, and B. Harrison. Investigating statistical machine learning as a tool for software development. In Proceedings of the SIGCHI Conference on Human Factors in Computing Systems, CHI ’08, pages 667–676, New York, NY, USA, 2008. ACM.
