@@ -7,6 +7,11 @@ Janet
 - Janet: 可以嘗試看看crowdsourcing,可能可以主打readable story...and so on
 
 柏豪
+-
+
+Hans
+-
+
 
 
 
