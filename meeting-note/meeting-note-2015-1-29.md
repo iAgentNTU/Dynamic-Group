@@ -18,5 +18,8 @@ Hans
 - introduce the 'Activity Discovery and Activity Recognition: A New Partnership'
 
 
-
+Po-Lun Tsai
+- 可以用自己的scenario ex:324的使用情境
+- Introduction太長了，可以show幾個例子，之後的方法再說設計是引述自哪裡
+- 可以參考洪明彤的slides
 
