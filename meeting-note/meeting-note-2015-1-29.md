@@ -15,7 +15,7 @@ Janet
 
 
 Hans
--introduce the 'Activity Discovery and Activity Recognition: A New Partnership'
+- introduce the 'Activity Discovery and Activity Recognition: A New Partnership'
 
 
 
