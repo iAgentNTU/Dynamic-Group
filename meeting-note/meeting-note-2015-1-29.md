@@ -7,10 +7,10 @@ Janet
 - Janet: 可以嘗試看看crowdsourcing,可能可以主打readable story...and so on
 
 柏豪
--
+-introduce
 
 Hans
--
+-introduce the 'Activity Discovery and Activity Recognition: A New Partnership'
 
 
 
