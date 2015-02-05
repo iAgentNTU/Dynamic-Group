@@ -3,3 +3,5 @@
 
 柏豪
 - 統整說明 Evaluation 方法（長蓉、Hui-Hsin、Corpus-Based、新聞那篇、Hugo Liu）
+- inLink & outLink
+- 目前想參考 Word2Vex
