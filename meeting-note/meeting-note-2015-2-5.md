@@ -6,3 +6,11 @@
 - inLink & outLink
 - 目前想參考 Word2Vex
 - evaluation, propagation, data mining way
+- 下週先把evaluation那邊做完
+
+Hans
+- 討論遇到的問題
+- 修正motivation
+
+品豪
+- demo
