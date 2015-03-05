@@ -1,4 +1,12 @@
-2014/12/25 - 2014/1/1
+2015/3/5 - 2015/3/12
+* Reading
+ - 
+* Writing
+ - 
+* Implementation
+ - 
+
+2014/12/25 - 2015/1/1
 * Reading
  - Find the support related work from "Emotion Classification in Microblog Texts Using Class Sequential Rules"
 * Writing
