@@ -25,3 +25,62 @@
 [AYM15] Norah Abokhodair, Daisy Yoo, and David W. McDonald. Dissecting a social botnet: Growth, content and influence in twitter. In Proceedings of the 18th ACM Conference on Computer Sup- ported Cooperative Work &#38; Social Computing, CSCW ’15, pages 839–851, New York, NY, USA, 2015. ACM.
 
 [Har15] Christopher G. Harris. The effects of pay-to-quit incentives on crowdworker task quality. In Proceedings of the 18th ACM Conference on Computer Supported Cooperative Work &#38; Social Computing, CSCW ’15, pages 1801–1812, New York, NY, USA, 2015. ACM.
+
+#### Talks I attended in CSCW15
+2015/03/16 @Monday
+- Early morning
+  - The Facebook Study: A Personal Account of Data Science, Ethics and Change [opening keynote]
+
+- Late morning
+  - Understanding the Effects of Crowdfunding on Entrepreneurial Self-Efficacy
+  - Crowds on Wall Street: Extracting Value from Collaborative Investing Platforms
+  - Crowdfunding Science: Sharing Research with an Extended Audience
+
+- Early afternoon
+  - Social Eye Tracking: Gaze Recall with Online Crowds
+  - Strategic Voting Behavior in Doodle Polls
+  - Structuring, Aggregating, and Evaluating Crowdsourced Design Critique
+
+- Late afternoon
+  - poster session 
+
+2015/03/17 @Tuesday
+- Early morning
+  - Flock: Hybrid Crowd-Machine Learning Classifiers
+  - Bridge the Gap!: What Can Work Design in Crowdwork Learn from Work Design Theories?
+  - And Now for Something Completely Different: Improving Crowdsourcing Workflows with Micro-Diversions
+
+- Late morning
+  - Two is Better Than One: Improving Multilingual Collaboration by Giving Two Machine Translation Outputs
+  - Turkers, Scholars, "Arafat" and "Peace": Cultural Communities and Algorithmic Gold Standards
+  - Dissecting a Social Botnet: Growth, Content and Influence in Twitter
+
+- Early afternoon
+  - Talkabout: Making distance matter with small groups in massive classes
+  - Massive Open Online Proctor: protecting the credibility of MOOCs certificates
+  - Structuring Interactions for Large-Scale Synchronous Peer Learning
+
+- Late afternoon
+  - Learning from Notes: organizational issues in groupware implementation [lasting impact award]
+  - Town hall meeting 
+
+- Night
+  - Reception
+
+2015/03/18 @Wednesday
+- Early morning
+  - Studying and Modeling the Connection between People's Preferences and Content Sharing
+  - Spending Time with Money: from shared values to social connectivity
+  - Understanding Online Reviews: Funny, Cool or Useful?
+
+- Late morning
+  - From "nobody cares" to "way to go!": A Design Framework for Social Sharing in Personal Informatics
+  - A Classroom Study of Using Crowd Feedback in the Iterative Design Process
+  - From Awareness to Empowerment: Using Design Fiction to Explore Paths towards a Sustainable Energy Future
+
+- Early afternoon
+  - The Effects of Pay-to-Quit Incentives on Crowdworker Task Quality
+  - Motivating Multi-Generational Crowd Workers in Social-Purpose Work
+
+- Late afternoon
+  - Algorithms in our Midst: Information, Power and Choice when Software is Everywhere [closing keynote]
