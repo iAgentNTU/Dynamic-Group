@@ -15,18 +15,7 @@
 - compile cscw 2015 note
 - presentation @ csc lab (3/27)
 
-#### Reference
-[HG15] Julie S. Hui and Elizabeth M. Gerber. Crowdfunding science: Sharing research with an extended audience. In Proceedings of the 18th ACM Conference on Computer Supported Cooperative Work &#38; Social Computing, CSCW ’15, pages 31–43, New York, NY, USA, 2015. ACM.
-
-[ZMP15] James Zou, Reshef Meir, and David Parkes. Strategic voting behavior in doodle polls. In Pro- ceedings of the 18th ACM Conference on Computer Supported Cooperative Work &#38; Social Computing, CSCW ’15, pages 464–472, New York, NY, USA, 2015. ACM.
-
-[DRPC15] Peng Dai, Jeffrey M. Rzeszotarski, Praveen Paritosh, and Ed H. Chi. And now for something completely different: Improving crowdsourcing workflows with micro-diversions. In Proceedings of the 18th ACM Conference on Computer Supported Cooperative Work &#38; Social Computing, CSCW ’15, pages 628–638, New York, NY, USA, 2015. ACM.
-
-[AYM15] Norah Abokhodair, Daisy Yoo, and David W. McDonald. Dissecting a social botnet: Growth, content and influence in twitter. In Proceedings of the 18th ACM Conference on Computer Sup- ported Cooperative Work &#38; Social Computing, CSCW ’15, pages 839–851, New York, NY, USA, 2015. ACM.
-
-[Har15] Christopher G. Harris. The effects of pay-to-quit incentives on crowdworker task quality. In Proceedings of the 18th ACM Conference on Computer Supported Cooperative Work &#38; Social Computing, CSCW ’15, pages 1801–1812, New York, NY, USA, 2015. ACM.
-
-#### Talks I attended in CSCW15
+#### Talks I've attended in CSCW15
 2015/03/16 @Monday
 - Early morning
   - The Facebook Study: A Personal Account of Data Science, Ethics and Change [opening keynote]
@@ -84,3 +73,16 @@
 
 - Late afternoon
   - Algorithms in our Midst: Information, Power and Choice when Software is Everywhere [closing keynote]
+
+
+#### Reference
+[HG15] Julie S. Hui and Elizabeth M. Gerber. Crowdfunding science: Sharing research with an extended audience. In Proceedings of the 18th ACM Conference on Computer Supported Cooperative Work &#38; Social Computing, CSCW ’15, pages 31–43, New York, NY, USA, 2015. ACM.
+
+[ZMP15] James Zou, Reshef Meir, and David Parkes. Strategic voting behavior in doodle polls. In Proceedings of the 18th ACM Conference on Computer Supported Cooperative Work &#38; Social Computing, CSCW ’15, pages 464–472, New York, NY, USA, 2015. ACM.
+
+[DRPC15] Peng Dai, Jeffrey M. Rzeszotarski, Praveen Paritosh, and Ed H. Chi. And now for something completely different: Improving crowdsourcing workflows with micro-diversions. In Proceedings of the 18th ACM Conference on Computer Supported Cooperative Work &#38; Social Computing, CSCW ’15, pages 628–638, New York, NY, USA, 2015. ACM.
+
+[AYM15] Norah Abokhodair, Daisy Yoo, and David W. McDonald. Dissecting a social botnet: Growth, content and influence in twitter. In Proceedings of the 18th ACM Conference on Computer Sup- ported Cooperative Work &#38; Social Computing, CSCW ’15, pages 839–851, New York, NY, USA, 2015. ACM.
+
+[Har15] Christopher G. Harris. The effects of pay-to-quit incentives on crowdworker task quality. In Proceedings of the 18th ACM Conference on Computer Supported Cooperative Work &#38; Social Computing, CSCW ’15, pages 1801–1812, New York, NY, USA, 2015. ACM.
+
