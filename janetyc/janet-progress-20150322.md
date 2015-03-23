@@ -1,9 +1,11 @@
+Research plan for 2015/03/22-2015/03/28
+
 #### What I've done last week
 - attend CSCW 2015 @ Vancouver (3/14-3/18)
   - DC day @ 3/15
   - Main conference @ 3/16-3/18
   
-#### What I plan to do this week
+#### What I plan to do this week (2015/03/22-2015/03/28)
 - read some crowd-related papers in cscw 2015
   - crowdfunding for science [HG15]
   - strategic voting behavior in doodle polls [ZMP15]
