@@ -16,6 +16,9 @@
 - presentation @ csc lab (3/27)
 
 #### Talks I've attended in CSCW15
+All papers are available in ACM and directly download via reference link in Confer
+CSCW2015 proceedings: http://confer.csail.mit.edu/cscw2015/papers
+
 2015/03/16 @Monday
 - Early morning
   - The Facebook Study: A Personal Account of Data Science, Ethics and Change [opening keynote]
