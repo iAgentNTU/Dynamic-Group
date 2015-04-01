@@ -19,4 +19,6 @@ Research plan for 2015/03/29-2015/04/04
 - Plan for crowdbutton
 - Meeting w/ Jane about progress update & paper draft
 - read at least 2 papers
-
+  - [UIST 2011] PlateMate: Crowdsourcing Nutrition Analysis from Food Photographs
+  - [UIST 2014] Glance: Rapidly Coding Behavioral Video with the Crowd
+  - [UIST 2014] Tohme: Detecting Curb Ramps in Google Street View Using Crowdsourcing, Computer Vision, and Machine Learning
