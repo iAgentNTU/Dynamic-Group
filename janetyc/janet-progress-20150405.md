@@ -5,6 +5,11 @@ Research plan for 2015/04/05-2015/04/11
   - [UIST 2011] PlateMate: Crowdsourcing Nutrition Analysis from Food Photographs
   - [UIST 2014] Glance: Rapidly Coding Behavioral Video with the Crowd
 
+- Meeting w/ Jane @ 2014.04.02
+  - plan for annotation tool
+  - pair crowdsourcing
+  - wireframe paper flow
+
 #### What I plan to do this week (2015/04/05-2015/04/11)
 - 1 paper draft for submission
   - wireframe paper draft
